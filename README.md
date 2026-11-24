@@ -174,34 +174,6 @@ applying theoretical concepts to practical situations.
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF"/>
-
-</div>
-
-### 🔥 Contribution Streak
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in learning from other developers,
